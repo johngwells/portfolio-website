@@ -71,6 +71,13 @@ input, select, textarea {
 	appearance: none;
 }
 
+.headshot {
+	width: 150px;
+	height: auto;
+	border: 2px solid #0E1111;
+	border-radius: 8px;
+}
+
 /* Basic */
 
 	@-ms-viewport {
